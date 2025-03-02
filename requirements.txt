@@ -3,3 +3,5 @@ pandas
 openai
 ipykernel
 notebook
+python-dotenv
+beautifulsoup4
